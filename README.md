@@ -1,2 +1,2 @@
-# predictive-analysis.github.io
+# Pridictive Analysis
 Predictive Analysis of data.
